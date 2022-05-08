@@ -1,0 +1,26 @@
+*****************************************************************************
+                               Reflection
+                             Workshop - #6
+Full Name  : Tran Minh Quan Nguyen
+Student ID#: 116796210
+Email      : nguyen-tran-minh-qua@myseneca.ca
+Section    : IPC144NRR
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+*****************************************************************************
+1.A solitary exhibit of records that are addressed by various clusters is a type of a verifiable information structure called a gathering of equal clusters. A portion of the equal clusters carried out in the codes are the accompanying:
+		double costs[10];
+		int priority[10];
+		char option[10]; 
+
+
+2.The first element in an array has an index of 0, so that is always the start value for a loop that iterates through an array from start to finish when iterating arrays with the iterator variable initialized to zero and not to a value of one. As a result, if the iteration starts at 1 instead of 0, the second value will be printed instead of the array's first element.
+for (i = 0; i < items;i++)
+	{
+		printf("%3d  %5d    %5c    %11.2lf\n", i + 1, priority[i], option[i], costs[i]);
+		totalCost += costs[i];
+	}
+3.I will use 5 boxes and put them close to one another .After that , I write on the container numbers begins from 0 to 4.Then put a ball into the each case (in various colors to atract the kid).I will let thekid that know if the individual in question need to remove any ball from the crate , the kid need to yell out the number on the cases .So the kids can understand that they need to callout the regconization (the numbers) to get to an exhibit (the cases )
